@@ -1,0 +1,26 @@
+Country;Year;Value
+United States;Y-2;0,00
+Australia;Y-2;0,85
+Greece;Y-2;1,07
+China;Y-2;0,94
+United Kingdom;Y-2;0,97
+United States;Y-1;0,93
+Australia;Y-1;0,90
+Greece;Y-1;1,05
+China;Y-1;1,03
+United Kingdom;Y-1;1,00
+United States;Y;1,00
+Australia;Y;1,00
+Greece;Y;1,00
+China;Y;1,00
+United Kingdom;Y;1,00
+United States;Y+1;1,03
+Australia;Y+1;0,98
+Greece;Y+1;1,11
+China;Y+1;0,96
+United Kingdom;Y+1;1,06
+United States;Y+2;1,00
+Australia;Y+2;0,98
+Greece;Y+2;1,20
+China;Y+2;1,05
+United Kingdom;Y+2;1,11
